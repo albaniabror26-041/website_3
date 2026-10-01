@@ -1,0 +1,26 @@
+h1{
+    font-size: 35px;
+    color: #000000;
+    font-family: "Press Start 2P", cursive;
+}
+
+#paragraf{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    color:#f25c03;
+    text-decoration:orange wavy underline;
+}
+
+.damn{
+    font-family:"press start 2p",cursive;
+    font-weight:bold;
+    color:#fe2830;
+    text-decoration:black underline;
+}
+body{
+     background:linear-gradient(to left, skyblue, palegreen);
+     background-repeat:no-repeat;
+     background-attachment: fixed;
+     background-size: cover;
+
+}
